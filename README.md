@@ -1,2 +1,3 @@
-# Prime-List
-This is a list of some primes in digit efficient expression.
+***
+1. $43^42-42=403343566675122500462878634623535631588559593930513766350645748813807$
+2. 
