@@ -27,7 +27,7 @@
 
 14. $\frac{4\cdot13^{277}+278}{30}$ (308 digits)
 
-
+15. $\frac{13^{377}-222}{179\cdot37139}$ (414 digits)
 
 <html lang="en">
 <head>
