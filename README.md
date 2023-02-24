@@ -1,5 +1,5 @@
-***
 This is a list of some large primes as sums of factorial I found using a simple algorithm with Miller–Rabin primality test.
+<p/>
 <p/>
 1. (1001 digits) $450!-92!+1$
 2. (1135 digits) $500!-88!+1$
