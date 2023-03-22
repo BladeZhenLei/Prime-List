@@ -1,5 +1,5 @@
-This is a list of large primes expressed as sums of factorials I found using a simple algorithm based on probablistic Miller–Rabin test. (last updated on: Dec 29, 2022)
-<p/>
+This is a list of large primes expressed as sums of factorials I found using a simple algorithm based on probablistic Miller–Rabin test. (last updated on: Dec 29, 2022)<p/>
+
 1. (157 digits) $100!+12!-1$
 2. (374 digits) $200!+26!-1$
 3. (614 digits) $300!-236!-1$
@@ -18,5 +18,5 @@ This is a list of large primes expressed as sums of factorials I found using a s
 16. (4563 digits) $1640!-86!+1$
 17. (4972 digits) $1767!+552!+1$
 18. (5031 digits) $1785!+90!+1$
-<p/>
-<html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script></head>
+
+<p/><html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script></head>
