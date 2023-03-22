@@ -1,4 +1,4 @@
-This is a list of some large primes as sums of factorial I found using a simple algorithm with Miller–Rabin primality test.
+This is a list of large primes expressed as sums of factorials I found using a simple algorithm based on probablistic Miller–Rabin test. (last updated: Dec 23, 2022)
 <p/>
 <p/>
 1. (1001 digits) $450!-92!+1$
