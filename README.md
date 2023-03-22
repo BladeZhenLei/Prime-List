@@ -1,4 +1,4 @@
-This is a list of large primes expressed as sums of factorials I found using a simple Python algorithm run in Colab Environment, the primility is based on one round of probablistic Miller–Rabin Test, and then one round of Lucas-Lehmer Test. (last updated on: Dec 29, 2022)
+This is a list of large primes expressed as sums of factorials I found using a Python algorithm run in Colab Environment, the primility is based on one round of probablistic Miller–Rabin Test, and then one round of Lucas-Lehmer Test. (last updated on: Dec 29, 2022)
 <p/>
 
 1. (157 digits) $100!+12!-1$
