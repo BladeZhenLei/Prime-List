@@ -13,12 +13,13 @@ This is a list of large primes expressed as sums of factorials I found using a P
 10. (2568 digits) $1000!+32!+1$
 11. (2870 digits) $1100!-141!-1$
 12. (3176 digits) $1200!+500!+1$
-13. (3799 digits) $1400!-26!+1$
-14. (4115 digits) $1500!+14!-1$
-15. (4402 digits) $1590!+162!-1$
-16. (4563 digits) $1640!-86!+1$
-17. (4972 digits) $1767!+552!+1$
-18. (5031 digits) $1785!+90!+1$
+13. (3486 digits) $1300!+342!+1$ 
+14. (3799 digits) $1400!-26!+1$
+15. (4115 digits) $1500!+14!-1$
+16. (4402 digits) $1590!+162!-1$
+17. (4563 digits) $1640!-86!+1$
+18. (4972 digits) $1767!+552!+1$
+19. (5031 digits) $1785!+90!+1$
 
 <p/>
 To visualize $1785!+90!+1$, see below
